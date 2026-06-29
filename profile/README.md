@@ -68,6 +68,13 @@ This GitHub organization hosts our **open-source firmware, utilities, and tools*
         <sub>Founder & Lead Engineer</sub>
       </a>
     </td>
+    <td align="center">
+  <a href="https://qorvexbd.com/profile?slug=rifat-al-naim">
+    <img src="https://ydiqmuwusriwjhgmvrpi.supabase.co/storage/v1/object/public/Profile%20Images/Rifat/profilepic.jpg" width="72" style="border-radius:50%" alt="MD Rifat Al Naiem"/><br/>
+    <strong>MD Rifat Al Naiem</strong><br/>
+    <sub>Co-Founder & Technical Coordinator</sub>
+  </a>
+</td>
   </tr>
 </table>
 
