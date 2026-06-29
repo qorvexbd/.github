@@ -4,7 +4,9 @@
 
 <br/>
 
-![Welcome to Qorvex Open Source](./welcome-banner.svg)
+# ⚡ Welcome to Qorvex Open Source
+
+*Engineering from Rangpur — built for the world.*
 
 <br/>
 
