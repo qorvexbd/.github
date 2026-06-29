@@ -49,7 +49,7 @@ This organization is home to our **open-source projects** — firmware, utilitie
 
 | | Name | Role |
 |---|---|---|
-| <img src="https://github.com/ariful-Qorvex.png" width="36" style="border-radius:50%"/> | [Ariful Islam](https://Qorvexbd.com/profile.html?id=ariful) | Founder & Lead Engineer |
+| <img src="[https://github.com/ariful-Qorvex.png](https://ydiqmuwusriwjhgmvrpi.supabase.co/storage/v1/object/public/Profile%20Images/Ariful/profilepic.jpg)" width="36" style="border-radius:50%"/> | [Ariful Islam](https://qorvexbd.com/profile?slug=ariful-islam) | Founder & Lead Engineer |
 
 ---
 
