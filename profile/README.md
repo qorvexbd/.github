@@ -1,25 +1,25 @@
 <div align="center">
 
-![QORVEX Technology BD](https://ydiqmuwusriwjhgmvrpi.supabase.co/storage/v1/object/public/main-slider/banner.png)
+![Qorvex Technology BD](https://ydiqmuwusriwjhgmvrpi.supabase.co/storage/v1/object/public/main-slider/banner.png)
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-qorvexbd.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1f2e&color=2563eb)](https://qorvexbd.com)
-[![Shop](https://img.shields.io/badge/Shop-shop.qorvexbd.com-0d1117?style=for-the-badge&logo=shopify&logoColor=white&labelColor=1a1f2e&color=2563eb)](https://shop.qorvexbd.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@qorvexbd-0d1117?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1f2e&color=2563eb)](https://twitter.com/qorvexbd)
-[![Location](https://img.shields.io/badge/Rangpur-Bangladesh_🇧🇩-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1f2e&color=2563eb)](https://qorvexbd.com/about.html)
+[![Website](https://img.shields.io/badge/Website-Qorvexbd.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1f2e&color=2563eb)](https://Qorvexbd.com)
+[![Shop](https://img.shields.io/badge/Shop-shop.Qorvexbd.com-0d1117?style=for-the-badge&logo=shopify&logoColor=white&labelColor=1a1f2e&color=2563eb)](https://shop.Qorvexbd.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@Qorvexbd-0d1117?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1f2e&color=2563eb)](https://twitter.com/Qorvexbd)
+[![Location](https://img.shields.io/badge/Rangpur-Bangladesh_🇧🇩-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1f2e&color=2563eb)](https://Qorvexbd.com/about.html)
 
 </div>
 
 ---
 
-## 🏢 About QORVEX
+## 🏢 About Qorvex
 
-**QORVEX Technology BD** is a Bangladeshi startup specializing in **IoT, Robotics, and Embedded Systems** — founded in 2026 and based in Rangpur, Bangladesh.
+**Qorvex Technology BD** is a Bangladeshi startup specializing in **IoT, Robotics, and Embedded Systems** — founded in 2026 and based in Rangpur, Bangladesh.
 
 We design and manufacture smart devices built from the ground up for real-world use: privacy-first, locally engineered, and delivered nationwide across all 64 districts.
 
-This organization is home to our **open-source projects** — firmware, utilities, and tools built alongside our products. Everything here is battle-tested on real QORVEX hardware.
+This organization is home to our **open-source projects** — firmware, utilities, and tools built alongside our products. Everything here is battle-tested on real Qorvex hardware.
 
 ---
 
@@ -49,7 +49,7 @@ This organization is home to our **open-source projects** — firmware, utilitie
 
 | | Name | Role |
 |---|---|---|
-| <img src="https://github.com/ariful-qorvex.png" width="36" style="border-radius:50%"/> | [Ariful Islam](https://qorvexbd.com/profile.html?id=ariful) | Founder & Lead Engineer |
+| <img src="https://github.com/ariful-Qorvex.png" width="36" style="border-radius:50%"/> | [Ariful Islam](https://Qorvexbd.com/profile.html?id=ariful) | Founder & Lead Engineer |
 
 ---
 
@@ -65,15 +65,15 @@ We open-source our work because the Bangladeshi maker community deserves **real,
 
 | | |
 |---|---|
-| 🌐 Website | [qorvexbd.com](https://qorvexbd.com) |
-| 🛒 Shop | [shop.qorvexbd.com](https://shop.qorvexbd.com) |
-| 📧 Email | contact@qorvexbd.com |
+| 🌐 Website | [Qorvexbd.com](https://Qorvexbd.com) |
+| 🛒 Shop | [shop.Qorvexbd.com](https://shop.Qorvexbd.com) |
+| 📧 Email | info@Qorvexbd.com |
 | 📍 Location | Rangpur, Bangladesh |
 
 ---
 
 <div align="center">
 
-<sub>© 2026 QORVEX Technology BD · Est. 2026 · Made in Rangpur, Bangladesh 🇧🇩</sub>
+<sub>© 2026 Qorvex Technology BD · Est. 2026 · Made in Rangpur, Bangladesh 🇧🇩</sub>
 
 </div>
