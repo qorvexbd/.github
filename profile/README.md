@@ -65,8 +65,8 @@ We open-source our work because the Bangladeshi maker community deserves **real,
 
 | | |
 |---|---|
-| 🌐 Website | [Qorvexbd.com](https://Qorvexbd.com) |
-| 🛒 Shop | [shop.Qorvexbd.com](https://shop.Qorvexbd.com) |
+| 🌐 Website | [qorvexbd.com](https://qorvexbd.com) |
+| 🛒 Shop | [shop.qorvexbd.com](https://shop.qorvexbd.com) |
 | 📧 Email | info@Qorvexbd.com |
 | 📍 Location | Rangpur, Bangladesh |
 
