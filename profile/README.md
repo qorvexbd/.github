@@ -60,21 +60,12 @@ This GitHub organization hosts our **open-source firmware, utilities, and tools*
 
 <table>
   <tr>
-    <!-- প্রথম প্রোফাইল -->
+    <!-- প্রথম প্রোফাইল (আরিফুল ইসলাম) -->
     <td align="center">
       <a href="https://qorvexbd.com/profile?slug=ariful-islam">
         <img src="https://ydiqmuwusriwjhgmvrpi.supabase.co/storage/v1/object/public/Profile%20Images/Ariful/profilepic.jpg" width="72" style="border-radius:50%" alt="Ariful Islam"/><br/>
         <strong>Ariful Islam</strong><br/>
         <sub>Founder & Lead Engineer</sub>
-      </a>
-    </td>
-
-    <!-- দ্বিতীয় প্রোফাইল (নতুন যোগ করা হয়েছে) -->
-    <td align="center">
-      <a href="লিংক_এখানে">
-        <img src="ছবির_ইউআরএল_এখানে" width="72" style="border-radius:50%" alt="নাম_এখানে"/><br/>
-        <strong>নাম_এখানে</strong><br/>
-        <sub>পদবী_এখানে</sub>
       </a>
     </td>
   </tr>
